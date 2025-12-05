@@ -19,3 +19,4 @@ ProdName , CATEGORY , Price , qty ,   date_sold
 "standing desk", " office furniture ", 199.99 , 1 , 2024-01-08
 "Stapler", "Office",  6.25 , 5 , 2024-01-09
 "stapler", " office ", -6.25 , 5 , 2024-01-09
+#This is the raw file where I will use copilot to fix it
